@@ -1,0 +1,4 @@
+package deps
+
+object Libraries {
+}
